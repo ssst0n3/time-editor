@@ -1,0 +1,28 @@
+@charset "utf-8";
+table {
+  width: 1000px;
+  border-spacing: 0px;
+}
+.mar_title {
+  background-color: #008000;
+}
+.mar_table {
+  border: solid #008000;
+  border-width: 1px 0px 0px 1px;
+}
+.mar_table td {
+  border: solid #008000;
+  border-width: 0px 1px 1px 0px;
+}
+.title {
+  color: white;
+  height: 80px;
+}
+.title_month {
+  width: 10%;
+  font-size: 40px;
+}
+.title_abstract {
+  width: 90%;
+  font-size: 26px;
+}
