@@ -31,3 +31,21 @@ table {
   height: 40px;
   color: #008000;
 }
+.title2 {
+  text-align: center;
+  height: 60px;
+  background-color: #00a600;
+  color: white;
+}
+.title_week {
+  font-size: 30px;
+  font-style: italic;
+  font-family: cursive;
+}
+p {
+  margin-left: 5px;
+}
+p time,
+thing {
+  display: inline-block;
+}
